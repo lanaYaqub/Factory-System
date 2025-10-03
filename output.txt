@@ -1,0 +1,350 @@
+successfully added Car c1
+successfully added Car c2
+c2 Before Upgrade 120.0
+c2 After Upgrade 132.0
+successfully added Van v3
+successfully added Van v4
+describe Special Propertie Van: v4
+trunk size <3.0 > max weight carrying <120.0> 
+successfully added Van v5
+successfully added Van v6
+successfully added HybridMotorcycle m7
+successfully added HybridMotorcycle m8
+successfully added Motorcycle m9
+successfully added Motorcycle m10
+describe Special Propertie Motorcycle: m10
+is off road <false >
+successfully added Motorcycle m11
+successfully added Motorcycle m12
+successfully added HybridMotorcycle m13
+successfully added Car c14
+successfully added Car c15
+successfully added Car c16
+successfully added Van v17
+successfully added Van v18
+successfully added Van v19
+successfully added Van v20
+successfully added HybridMotorcycle m21
+successfully added HybridMotorcycle m22
+successfully added HybridMotorcycle m23
+successfully added Motorcycle m24
+successfully added HybridMotorcycle m25
+successfully added Motorcycle m26
+successfully added Motorcycle m27
+successfully added HybridMotorcycle m28
+successfully added Motorcycle m29
+successfully added HybridMotorcycle m30
+successfully added HybridMotorcycle m31
+successfully added Car c32
+successfully added HybridCar c33
+successfully added Car c34
+successfully added Van v35
+successfully added Van v36
+successfully added Van v37
+successfully added Van v38
+successfully added HybridCar c39
+successfully added HybridCar c40
+successfully added HybridCar c41
+successfully added Van v42
+successfully added Van v43
+successfully added Van v44
+successfully added Van v45
+successfully added Car c46
+successfully added HybridCar c47
+successfully added Car c48
+Pollution level in hybrid vehicles must be 1. The vehicle < c49 > not added to the system .
+successfully added HybridCar c50
+successfully added Customer 1
+successfully added Customer 2
+successfully added Customer 3
+successfully added Customer 4
+successfully added Customer 5
+successfully added Customer 6
+successfully added Customer 7
+successfully added Customer 8
+successfully added Customer 9
+successfully added Customer 10
+successfully added VIPCustomer 11
+successfully added VIPCustomer 12
+successfully added VIPCustomer 13
+successfully added VIPCustomer 14
+successfully added VIPCustomer 15
+successfully added VIPCustomer 16
+successfully added VIPCustomer 17
+successfully added VIPCustomer 18
+successfully added VIPCustomer 19
+successfully added VIPCustomer 20
+The person already exists in the System: <AdanGanaem>  The person not added to the system.
+The person already exists in the System: <AdanGanaem>  The person not added to the system.
+The person's year of birth must be between 1900-2022. The person <21> not added to the system.
+successfully added Department 1
+successfully added Department 2
+successfully added Department 3
+successfully added Department 4
+successfully added Department 5
+failed to add Department 1
+The person's year of birth must be between 1900-2022. The person <22> not added to the system.
+successfully added Employee 22
+successfully added Employee 23
+successfully added Employee 24
+successfully added Employee 25
+successfully added Employee 26
+successfully added Employee 27
+successfully added Employee 28
+successfully added Employee 29
+successfully added Employee 30
+successfully added DepartmentManager 31
+successfully added DepartmentManager 32
+successfully added DepartmentManager 33
+successfully added DepartmentManager 34
+successfully added DepartmentManager 35
+The person already exists in the System: <DavidAlone>  The person not added to the system.
+successfully added Deal 1
+successfully added Deal 2
+successfully added Deal 3
+successfully added Deal 4
+successfully added Deal 5
+successfully added Deal 6
+successfully added Deal 7
+successfully added Deal 8
+successfully added Deal 9
+successfully added Deal 10
+successfully added Deal 11
+successfully added Deal 12
+successfully added Deal 13
+successfully added Deal 14
+successfully added Deal 15
+The number of seats in car / hybrid car can be a maximum of 7 The vehicle <c51> not added to the system
+Pollution level not in range. The vehicle < v52>  not added to the system.
+Pollution level not in range. The vehicle < c53>  not added to the system.
+successfully removed Car c2
+failed to remove Van v75
+successfully removed Van v4
+successfully removed Van v20
+successfully removed Motorcycle m31
+successfully removed Motorcycle m11
+successfully removed Customer 19
+successfully removed Customer 8
+successfully removed Customer 10
+successfully removed VIPCustomer 11
+successfully removed VIPCustomer 14
+The person does not exist in the System
+successfully removed Employee 23
+successfully removed DepartmentManager 32
+The person does not exist in the System
+failed to remove Deal 0
+successfully removed Deal 4
+failed to remove Deal 18
+successfully removed Department 5
+failed to remove Department 10
+
+
+
+****************personsByGenderAndYearOfBirth***************************
+M
+2000
+ID= 4, firstName= Eyad, lastName=Cantor       , phoneNumber= 54893265, dateOfJoining= Fri Sep 20 00:00:00 IDT 2019
+2005
+ID= 15, firstName= Hasan, lastName=Abom, phoneNumber= 54893265, dateOfJoining= Mon Jul 19 00:00:00 IDT 2021 discountPercentage= 0.05
+ID= 5, firstName= David, lastName=Abom, phoneNumber= 54893265, dateOfJoining= Sat Nov 27 00:00:00 IST 2021
+1990
+ID= 33, firstName= David, lastName=Alon, phoneNumber= 5468, salary= 4700.0 Department= 3 , bonus=1300.0
+ID= 26, firstName= amit, lastName=Alon, phoneNumber= 546852912, salary= 4100.0 Department= 1
+ID= 18, firstName= Mohammed, lastName=Ganaem, phoneNumber= 54893265, dateOfJoining= Sun Aug 15 00:00:00 IDT 2021 discountPercentage= 0.3
+1975
+ID= 34, firstName= David, lastName=Alon, phoneNumber= 5468, salary= 6000.0 Department= 4 , bonus=1600.0
+ID= 27, firstName= raslan, lastName=Alon, phoneNumber= 54685297, salary= 5400.0 Department= 2
+1995
+ID= 12, firstName= Ali, lastName=Ganaem, phoneNumber= 54893265, dateOfJoining= Thu Oct 19 00:00:00 IDT 2017 discountPercentage= 0.15
+ID= 2, firstName= Hasan, lastName=Abom, phoneNumber= 54893265, dateOfJoining= Sat Jul 25 00:00:00 IDT 2020
+ID= 7, firstName= Ron, lastName=Ganaem, phoneNumber= 54893265, dateOfJoining= Mon Dec 20 00:00:00 IST 2021
+1980
+ID= 16, firstName= Shadi, lastName=Ganaem, phoneNumber= 54893265, dateOfJoining= Sat Dec 02 00:00:00 IST 2017 discountPercentage= 0.2
+ID= 1, firstName= Ahmed, lastName=Abom, phoneNumber= 54893265, dateOfJoining= Sat Mar 20 00:00:00 IST 2021
+ID= 6, firstName= Ilan, lastName=Abom, phoneNumber= 54893265, dateOfJoining= Wed Sep 20 00:00:00 IDT 2017
+F
+2000
+ID= 9, firstName= Soher, lastName=Abom, phoneNumber= 54893265, dateOfJoining= Wed Sep 01 00:00:00 IDT 2021
+2001
+ID= 22, firstName= Asad, lastName=Alon, phoneNumber= 54685297, salary= 5000.0 Department= 1
+ID= 29, firstName= ahmad, lastName=Alon, phoneNumber= 54685745, salary= 5900.0 Department= 4
+1989
+ID= 24, firstName= ali, lastName=Alon, phoneNumber= 54685298, salary= 3600.0 Department= 4
+ID= 31, firstName= mohammed, lastName=Alon, phoneNumber= 54685298, salary= 6000.0 Department= 1 , bonus=1500.0
+2005
+ID= 20, firstName= Adan, lastName=Ganaem, phoneNumber= 54893265, dateOfJoining= Sat Sep 07 00:00:00 IDT 2019 discountPercentage= 0.2
+1990
+ID= 13, firstName= Idan, lastName=Abom, phoneNumber= 54893265, dateOfJoining= Sat Sep 12 00:00:00 IDT 2020 discountPercentage= 0.1
+ID= 3, firstName= Alaa, lastName=Ganaem, phoneNumber= 54893265, dateOfJoining= Wed Oct 10 00:00:00 IDT 2018
+1995
+ID= 17, firstName= Seba, lastName=Abom, phoneNumber= 54893265, dateOfJoining= Tue Jun 05 00:00:00 IDT 2018 discountPercentage= 0.1
+1980
+ID= 28, firstName= yasmeen, lastName=Alon, phoneNumber= 54685247, salary= 5600.0 Department= 3
+****************countOfVehiclesTransportationByColor****************************
+Red 5
+White 4
+Gold 10
+Black 6
+Blue 0
+Green 7
+Silver 1
+Gray 0
+****************avg Pollution Level Of Deal****************
+1 avg Pollution Level Of Deal 9.25
+****************avg Pollution Level Of Deal****************
+3 avg Pollution Level Of Deal 11.0
+****************avg Pollution Level Of Deal****************
+5 avg Pollution Level Of Deal 3.6666666666666665
+****************avgPollutionLevelOfAllVehiclesTransportation*******************************
+avg Pollution Level Of AllVehicles Transportation is 5.4772727272727275
+****************is Global Standard*********************************
+The Factory is Global Standard ?
+false
+*****************appointmentOfNewDepartmentManager**************************
+successfully appointment Of NewDepartment Manager 2
+*****************appointmentOfNewDepartmentManager**************************
+failed to appointment Of NewDepartment Manager 3
+*******************total Profit*******************************
+Total Profit is 758320
+******************relativePrecentageOfHybrid******************************
+relative Precentage Of Hybrid is 0.3409090909090909
+************howManyHybridVehiclesTransportationNeeded******************************
+ Hybrid Vehicles Transportation Needed 6
+******************idOfDealWithMinAvgPollutionLevel******************************
+The Deal With Min Avg is 15
+************allEmployees******************************
+22
+24
+26
+27
+28
+29
+31
+************allEmployees******************************
+22
+24
+26
+27
+28
+29
+31
+33
+34
+************allCustomers******************************
+1
+2
+3
+4
+5
+6
+7
+9
+12
+13
+15
+16
+17
+18
+20
+************allVehicleTransportations******************************
+id: c14 PollutionLevel: 15 Price: 65000.0
+id: c32 PollutionLevel: 15 Price: 70000.0
+id: c46 PollutionLevel: 15 Price: 79000.0
+id: v5 PollutionLevel: 10 Price: 200000.0
+id: v19 PollutionLevel: 10 Price: 205000.0
+id: v37 PollutionLevel: 10 Price: 205000.0
+id: v44 PollutionLevel: 10 Price: 215000.0
+id: c15 PollutionLevel: 9 Price: 22000.0
+id: c1 PollutionLevel: 9 Price: 40000.0
+id: v3 PollutionLevel: 9 Price: 150000.0
+id: v17 PollutionLevel: 9 Price: 170000.0
+id: v35 PollutionLevel: 9 Price: 200000.0
+id: v42 PollutionLevel: 9 Price: 220000.0
+id: m27 PollutionLevel: 8 Price: 25000.0
+id: v6 PollutionLevel: 8 Price: 70000.0
+id: v38 PollutionLevel: 8 Price: 76000.0
+id: v45 PollutionLevel: 8 Price: 85000.0
+id: m9 PollutionLevel: 7 Price: 20000.0
+id: v18 PollutionLevel: 7 Price: 70000.0
+id: v36 PollutionLevel: 7 Price: 70000.0
+id: m12 PollutionLevel: 7 Price: 75000.0
+id: v43 PollutionLevel: 7 Price: 75000.0
+id: m29 PollutionLevel: 7 Price: 110000.0
+id: m10 PollutionLevel: 3 Price: 70000.0
+id: m24 PollutionLevel: 3 Price: 70000.0
+id: c16 PollutionLevel: 2 Price: 50000.0
+id: c34 PollutionLevel: 2 Price: 50000.0
+id: c48 PollutionLevel: 2 Price: 60000.0
+id: m23 PollutionLevel: 1 Price: 19000.0
+id: m13 PollutionLevel: 1 Price: 20000.0
+id: m7 PollutionLevel: 1 Price: 20000.0
+id: m22 PollutionLevel: 1 Price: 30000.0
+id: m8 PollutionLevel: 1 Price: 30000.0
+id: c33 PollutionLevel: 1 Price: 32000.0
+id: c47 PollutionLevel: 1 Price: 32000.0
+id: c40 PollutionLevel: 1 Price: 37000.0
+id: c41 PollutionLevel: 1 Price: 50000.0
+id: c39 PollutionLevel: 1 Price: 70000.0
+id: m21 PollutionLevel: 1 Price: 75000.0
+id: m26 PollutionLevel: 1 Price: 75000.0
+id: m28 PollutionLevel: 1 Price: 75000.0
+id: m30 PollutionLevel: 1 Price: 80000.0
+id: m25 PollutionLevel: 1 Price: 100000.0
+id: c50 PollutionLevel: 1 Price: 115000.0
+************allCustomersCmp******************************
+id: 9 Size Dealls: 0 Size AllVehicleTransportation 0
+id: 12 Size Dealls: 0 Size AllVehicleTransportation 0
+id: 13 Size Dealls: 0 Size AllVehicleTransportation 0
+id: 15 Size Dealls: 0 Size AllVehicleTransportation 0
+id: 16 Size Dealls: 0 Size AllVehicleTransportation 0
+id: 18 Size Dealls: 0 Size AllVehicleTransportation 0
+id: 20 Size Dealls: 0 Size AllVehicleTransportation 0
+id: 5 Size Dealls: 1 Size AllVehicleTransportation 4
+id: 2 Size Dealls: 1 Size AllVehicleTransportation 3
+id: 4 Size Dealls: 1 Size AllVehicleTransportation 3
+id: 6 Size Dealls: 1 Size AllVehicleTransportation 3
+id: 7 Size Dealls: 1 Size AllVehicleTransportation 2
+id: 17 Size Dealls: 1 Size AllVehicleTransportation 2
+id: 1 Size Dealls: 2 Size AllVehicleTransportation 8
+id: 3 Size Dealls: 4 Size AllVehicleTransportation 5
+************getBestsDeal******************************
+id: 10 score: 1.0
+id: 11 score: 1.0
+id: 14 score: 1.0
+id: 15 score: 1.0
+id: 8 score: 1.5
+id: 5 score: 3.6666667
+id: 7 score: 4.75
+id: 9 score: 5.0
+id: 6 score: 6.5
+id: 13 score: 7.0
+************getBestsDeal******************************
+id: 10 score: 1.0
+id: 11 score: 1.0
+id: 14 score: 1.0
+id: 15 score: 1.0
+id: 8 score: 1.4142135
+id: 5 score: 2.5198421
+id: 7 score: 2.9129505
+id: 9 score: 3.0
+id: 6 score: 3.408658
+id: 2 score: 4.9324245
+id: 13 score: 7.0
+************getBestsDeal******************************
+id: 10 score: 1.0
+id: 11 score: 1.0
+id: 14 score: 1.0
+id: 15 score: 1.0
+id: 8 score: 1.3333334
+id: 7 score: 1.7888198
+id: 9 score: 1.8
+id: 6 score: 1.8367347
+id: 5 score: 1.8461539
+id: 2 score: 2.535211
+id: 13 score: 6.9999995
+id: 1 score: 8.920354
+************AllBestsDepManger******************************
+id: 33 Salary: 4700.0 DateOfStartWork: Mon Dec 02 00:00:00 IST 2019
+id: 34 Salary: 6000.0 DateOfStartWork: Fri Dec 02 00:00:00 IST 2016
+id: 31 Salary: 6000.0 DateOfStartWork: Thu Dec 05 00:00:00 IST 2019
+id: 27 Salary: 8100.0 DateOfStartWork: Wed Sep 22 00:00:00 IDT 2021
